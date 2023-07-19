@@ -42,6 +42,6 @@ function maxProfit(prof) {
   }
 }
 
-const earnings = findProfit(13);
+const earnings = findProfit(13);// Enter your input here --7,8,13
 console.log("Earnings: $" + earnings);
 console.log("Solution: \n" + `T: ${profit[1]}, P: ${profit[0]}, C: ${profit[2]}`);
